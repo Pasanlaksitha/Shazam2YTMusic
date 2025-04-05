@@ -1,4 +1,4 @@
-# My Shazam YouTube Playlist Manager
+# Shazam Discovers to YouTube Music Playlist Exporter
 
 ## Description
 This project automates the creation and updating of a YouTube playlist named "My Shazam" using a list of your Shazam-discovered music. It utilizes Google Sheets, Google Apps Script, and the YouTube Data API to seamlessly sync your favorite music from Shazam into YouTube, making your music management effortless.
