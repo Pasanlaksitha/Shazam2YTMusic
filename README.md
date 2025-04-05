@@ -10,7 +10,7 @@ Follow these clear, step-by-step instructions to set up your environment:
 1. Open your terminal or command prompt.
 2. Clone the repository:
    ```bash
-   git clone https://github.com/pasanlaksitha/shazam-to-youtubemusic.git
+   git clone https://github.com/Pasanlaksitha/Shazam2YTMusic.git
    ```
 
 ### Step 2: Set up Google Sheet
